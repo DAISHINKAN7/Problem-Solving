@@ -1,7 +1,7 @@
 import java.util.*;
 public class solveMeFirst{
 
-    static int solveMeFirst(int a, int b){
+    static int solveFirst(int a, int b){
         return a + b;
     }
     public static void main(String args[]){
@@ -10,6 +10,6 @@ public class solveMeFirst{
 
         int b = sc.nextInt();
 
-        System.out.println(solveMeFirst(a, b));
+        System.out.println(solveFirst(a, b));
     }
 }
