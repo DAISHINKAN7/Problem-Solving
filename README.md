@@ -21,7 +21,8 @@ The goal of this repo is to improve my logical thinking, coding fundamentals, an
 Make sure Python/Java is installed, then run:
 
 ```bash
+#For Python
 python filename.py
 
-```bash
+# For Java
 java filename.java
