@@ -1,6 +1,6 @@
-# Problem Solving in Python
+# Problem Solving in Python and Java
 
-This repository contains my Python solutions for basic problem-solving questions.  
+This repository contains my Python and Java solutions for basic problem-solving questions.  
 I have just started this repository and will keep adding more problems regularly as I practice.
 
 The goal of this repo is to improve my logical thinking, coding fundamentals, and familiarity with common problem-solving patterns.
@@ -9,7 +9,7 @@ The goal of this repo is to improve my logical thinking, coding fundamentals, an
 
 ## What this repository includes
 
-- Simple Python programs
+- Simple Pythona and Java programs
 - Basic array and string problems
 - Use of dictionaries, lists, loops, and conditionals
 - Beginner-friendly problem-solving approaches
@@ -18,7 +18,11 @@ The goal of this repo is to improve my logical thinking, coding fundamentals, an
 
 ## How to run the code
 
-Make sure Python is installed, then run:
+Make sure Python/Java is installed, then run:
 
 ```bash
+#For Python
 python filename.py
+
+# For Java
+java filename.java
