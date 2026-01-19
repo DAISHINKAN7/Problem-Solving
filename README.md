@@ -9,10 +9,9 @@ The goal of this repo is to improve my logical thinking, coding fundamentals, an
 
 ## What this repository includes
 
-- Simple Pythona and Java programs
-- Basic array and string problems
-- Use of dictionaries, lists, loops, and conditionals
-- Beginner-friendly problem-solving approaches
+- Simple Python and Java programs
+- Problem solving of leetcode problems
+- Solutions to problems in a optimized way
 
 ---
 
