@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class NQueens {
 
     public boolean isSafe(int row, int col, char[][] board) {
