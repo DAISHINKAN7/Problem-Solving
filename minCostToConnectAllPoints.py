@@ -24,8 +24,7 @@ class Solution:
                     minDist[v] = min(minDist[v], dist)
         
         return res
-
-    
+        
 s = Solution()
 print(s.minCostConnectPoints(points = [[0,0],[2,2],[3,10],[5,2],[7,0]]))
 print(s.minCostConnectPoints(points = [[3,12],[-2,5],[-4,1]]))
